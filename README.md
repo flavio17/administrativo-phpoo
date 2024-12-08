@@ -22,7 +22,7 @@ composer init
 
 ## Como baixar o projeto do github
 
-git clone --branch dev-master https://github.com/flavio17/administrativo-phpoo.git
-git branch
-git pull
-git add.
+- git clone --branch dev-master https://github.com/flavio17/administrativo-phpoo.git
+- git branch
+- git pull
+- git add.
